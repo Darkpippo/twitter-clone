@@ -2,9 +2,7 @@
 
 ## Run
 ```bash
-npm run start:dev # localhost:3000
-
-text
+npm run start:dev
 ```
 ## .env
 ```bash
