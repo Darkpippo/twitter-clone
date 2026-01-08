@@ -2,7 +2,6 @@
 
 ## Run
 ```bash
-npm i
 npm run start:dev # localhost:3000
 
 text
