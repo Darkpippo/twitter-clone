@@ -2,7 +2,7 @@
 
 ## Start
 ```bash
-npx expo start
+npm run start
 ```
 
 **iOS/Android:** Scan QR with Expo Go app
