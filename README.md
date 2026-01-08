@@ -13,11 +13,15 @@ Features:
 **Checkout Backend Readme**
 
 **Backend:**
+
 cd backend
+
 npm run start:dev
 
 **Checkout Frontend Readme**
 
 **Frontend**
+
 cd frontend  
+
 npx run start
